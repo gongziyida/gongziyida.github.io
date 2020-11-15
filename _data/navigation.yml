@@ -1,6 +1,9 @@
 # main links links
 main:
-  - title: "Publications / Preprints"
+  - title: "Education & Skills"
+    url: /education/
+
+  - title: "Publications & Preprints"
     url: /publications/
 
   # - title: "Talks"
