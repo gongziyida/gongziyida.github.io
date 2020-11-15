@@ -1,5 +1,5 @@
 ---
-permalink: /
+layout: archive
 title: "Story of Academic Interest"
 excerpt: "Story of Academic Interest"
 author_profile: true
@@ -16,4 +16,4 @@ I need to make a study plan first as there was not a plan provided by the school
 
 Along with the training, I also did independent research projects related to memory and learning, vision, evolution and genetic algorithm, and olfactory navigation behaviors. Please see 'Projects' for more.
 
-I discovered during training and research that memory, learning and perception are the most appealing fields, and I would like to apply computational methods in the exploration. However, I hold strong curiosity for things and I will keep learn and maybe try different approaches and directions, and choose the one I would like to strive for. 
+I discovered during training and research that memory, learning and perception are the most appealing fields, and I would like to apply computational methods and machine learning in the exploration. However, I hold strong curiosity for things and I will keep learn and even try different approaches and directions, and choose the one I would like to strive for in the future.

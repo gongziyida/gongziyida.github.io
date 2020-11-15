@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Ziyi Gong, an undergraduate researcher in computational neuroscience and machine learning related to biology. I love these fields and believe that the insights from the two can guide the developments of each other! If you want to hear the story of how I developed the interest, click [here](https://gongziyida.github.io/story/).
+Hello! I am Ziyi Gong, an undergraduate researcher in computational neuroscience and machine learning related to biology. specifically, I am interested in computational research in learning, memory and perception. I love these fields and believe that the insights from computational methods and the understandings of the brain can guide the developments of each other! If you want to hear the story of how I developed the interest, click [here](https://gongziyida.github.io/story/).
