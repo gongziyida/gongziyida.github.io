@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile]({{author.googlescholar}}).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=zOKHGPgAAAAJ&hl=en).
 
 Dvoretskii, S., ​**Gong, Z.**​, Gupta, A., Parent, J., and Alicea, B. (2020). Braitenberg Vehicles as Developmental Neurosimulation. ​*arXiv preprint* arXiv:2003.07689​.
 
