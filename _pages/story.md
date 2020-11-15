@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Story of Academic Interest"
-excerpt: "Story of Academic Interest"
+permalink: /story/
 author_profile: true
 ---
 
