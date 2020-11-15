@@ -12,9 +12,12 @@ Hello! I am Ziyi Gong, an undergraduate researcher in computational neuroscience
 
 I do workout in my leisure. If I were to have time, I would visit the museums or go hiking and star gazing.  
 
+Last update: 11/15/2020
+
 ## Education
 
 - 2017 - 2020
-BS, Computer Science (Minors in Neuroscience and Mathematics), University of Pittsburgh
 
-## Skills
+BS, Computer Science, University of Pittsburgh
+
+Minors in Neuroscience and Mathematics 
