@@ -3,9 +3,6 @@ layout: archive
 title: "Story of Academic Interest"
 excerpt: "Story of Academic Interest"
 author_profile: true
-redirect_from:
-  - /story/
-  - /story.html
 ---
 
 With some biology research and competition experience, I entered Pitt as a prospective neuroscience major. I intended to pursue molecular or cellular studies in neurobiology. However, the seed of mathematics and computer science buried in my mind was sprouting secretly as I learned math and Python in my freshman year.

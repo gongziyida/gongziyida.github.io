@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Ziyi Gong"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ziyi Gong"
+description              : &description "Hi I am Ziyi Gong"
 url                      : https://gongziyida.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gongziyida/gongziyida.github.io"
@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Ziyi Gong"
-  avatar           : "profile.png"
-  bio              : "BS in Computer Science with Minors Neuroscience and Mathematics, University of Pittsburgh"
+  avatar           : "head_real.png"
+  bio              : "Pronounced as \"Z' E Gone\""
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           :
