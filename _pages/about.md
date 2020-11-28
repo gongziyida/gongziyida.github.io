@@ -11,4 +11,4 @@ Hello! I am Ziyi Gong, an undergraduate researcher in computational neuroscience
 
 I do workout in my leisure. If I were to have time, I would visit the museums or go hiking and star gazing.  
 
-Last update: 11/15/2020
+Last update: 11/28/2020
