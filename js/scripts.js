@@ -39,4 +39,16 @@
     $("body").scrollspy({
         target: "#sideNav",
     });
+
+    // switch between real and cartoon profile photos
+    $(".change").click(function(){
+        if ($("#profile").attr("src") == "assets/img/profile.png")
+        {
+            $("#profile").attr("src", "assets/img/profile_cartoon.jpg");
+        }
+        else
+        {
+            $("#profile").attr("src", "assets/img/profile.png");
+        }
+    });
 })(jQuery); // End of use strict
